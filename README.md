@@ -1,7 +1,7 @@
 
 ![Marie Creel - Full Stack Software Engineer](https://i.imgur.com/cz6pG3f.png)
 
-### Why, hello there!
+### Hello there!
 My name is **Marie Creel** and I'm a **full stack software engineer**. I currently work at [Christianbook](https://christianbook.com), enhancing web accessiblity, reducing crash rates in our mobile eReader app, and engineering solutions across the tech stack. I build [APIs](https://github.com/mariecreel/lolibrary-api-proxy), [mobile apps](https://github.com/mariecreel/lolibrary-mobile), [microsites](https://www.hatsunem.icu), [CLIs](https://github.com/mariecreel/leetdex), and [tools for devs](https://github.com/mariecreel/bulkrcsdiff.sh) in my free time, too!
 
 I completed an undergraduate thesis in computer science and writing at [Marlboro College](https://marlboro.emerson.edu/), focusing on programming languages, compiler design, and interactive hypertext literature. I designed and built [TweeTeX](https://github.com/mariecreel/TweeTeX), a TeX-like syntactical sugar for the [Twee3 programming language](https://github.com/Rizean/twee3), as part of my thesis work.
