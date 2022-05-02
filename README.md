@@ -1,6 +1,3 @@
-
-![Marie Creel - Full Stack Software Engineer](https://i.imgur.com/cz6pG3f.png)
-
 ### Hello there!
 My name is **Marie Creel** and I'm a **full stack software engineer**. I currently work at [Christianbook](https://christianbook.com), enhancing web accessiblity, reducing crash rates in our mobile eReader app, and engineering solutions across the tech stack. 
 
