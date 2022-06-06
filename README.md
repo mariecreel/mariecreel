@@ -1,5 +1,5 @@
 ### Hello there!
-My name is **Marie Creel** and I'm a **full stack software developer**. I currently work at [Christianbook](https://christianbook.com), enhancing web accessiblity, reducing crash rates in our mobile eReader app, and engineering solutions across the tech stack. 
+My name is **Marie Creel** and I'm a **full-stack software engineer**.
 
 I build [APIs](https://github.com/mariecreel/lolibrary-api-proxy), [mobile apps](https://github.com/mariecreel/lolibrary-mobile), [microsites](https://www.hatsunem.icu), [CLIs](https://github.com/mariecreel/leetdex), and [tools for devs](https://github.com/mariecreel/bulkrcsdiff.sh) for fun, too!
 
